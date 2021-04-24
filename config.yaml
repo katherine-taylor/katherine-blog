@@ -7,7 +7,6 @@ theme: "starter-academic"
 title: Katherine Taylor # Website name
 baseurl: 'katherine-taylor.netlify.app' # Website URL
 copyright: '© {year} Katherine Taylor' # Footer text, e.g. '© {year} Me'
-
 ############################
 ## LANGUAGE
 ############################
@@ -76,3 +75,4 @@ related:
       weight: 100
     - name: categories
       weight: 70
+custom_css: 'assets/scss/custom.scss'

@@ -12,9 +12,6 @@ interests:
 - Data visualization
 - Statistics
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - display:
     header: true
   icon: twitter

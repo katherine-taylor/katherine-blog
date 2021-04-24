@@ -1,27 +1,16 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My interests include R programming, data visualization, and statistics.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Systems Engineering, Statistics
+    institution: University of Virginia
+    year: 2020
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- R programming
+- Data visualization
+- Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +20,16 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/data_katherine
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/katherine-taylor
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/katherine-taylor-858122149/
 superuser: true
-title: Nelson Bighetti
+title: Katherine Taylor
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Katherine Taylor is a business analyst currently working at a large financial institution. She enjoys R programming, playing bassoon, and playing board games with friends and family.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

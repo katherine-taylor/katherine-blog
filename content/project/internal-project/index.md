@@ -8,8 +8,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+  url: https://twitter.com/data_katherine
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning

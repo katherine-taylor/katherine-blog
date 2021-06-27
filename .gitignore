@@ -1,7 +1,7 @@
 # ignore mac things
 .DS_Store
 
-# R project files
+# R project files - including .Rproj.user
 .Rproj.user
 .Rhistory
 .RData

@@ -5,12 +5,12 @@ action_type: text
 description: Hi! My name is Katherine is this is my website. I'm still getting the hang of things, but expect to see blog posts and projects in the future :)
 image_left: true
 images:
-- img/revoir.jpg
+- img/intro_photo.jprg
 show_action_link: true
 show_social_links: true
 subtitle: Analytically Minded Business Analyst
 text_align_left: false
-title: Hugo Apéro
+title: Katherine Taylor
 type: home
 ---
 

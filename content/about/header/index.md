@@ -7,5 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a recent graduate of the University of Virginia, where I studied Systems Engineering and Statistics. I love programming in R, statistics, and planning board games.
+I'm a recent graduate of the University of Virginia, where I studied Systems Engineering and Statistics. I love programming in R, statistics, and playing board games.
 

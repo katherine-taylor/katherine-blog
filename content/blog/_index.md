@@ -15,7 +15,7 @@ show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  description: "As inspried by Jesse Mostipak, here's a list of what I'm reading, listening and watching lately. <br> <br> <a href = \"https://www.amazon.com/Eat-City-Foragers-Beekeepers-Winemakers/dp/0307719065\"> Eat the City </a> <br>  <a href = \"https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html\"> Machine Learning for Credit Card Fraud Detection </a> <br> <a href = \"https://www.amazon.com/Collective-Genius-audiobook/dp/B01DKRMV38/ref=sr_1_1?dchild=1&keywords=collective+genius&qid=1624821332&s=books&sr=1-1\"> Collective Genius (for work) </a>"
+  description: "As inspired by Jesse Mostipak, here's a list of what I'm reading, listening and watching lately. <br> <br> <a href = \"https://www.amazon.com/Eat-City-Foragers-Beekeepers-Winemakers/dp/0307719065\"> Eat the City </a> <br>  <a href = \"https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html\"> Machine Learning for Credit Card Fraud Detection </a> <br> <a href = \"https://www.amazon.com/Collective-Genius-audiobook/dp/B01DKRMV38/ref=sr_1_1?dchild=1&keywords=collective+genius&qid=1624821332&s=books&sr=1-1\"> Collective Genius (for work) </a>"
   show_sidebar_adunit: false
   title: Current Interests
 thumbnail_left: true

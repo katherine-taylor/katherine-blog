@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, I'm Katherine, an analytically minded business analyst.
+  Hi, I'm Katherine, an analytically minded senior business analyst.
 ---
 
 <!-- this is a subheadline -->

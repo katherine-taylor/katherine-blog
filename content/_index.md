@@ -8,7 +8,7 @@ images:
 - img/intro_photo.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: Analytically Minded Business Analyst
+subtitle: Analytically Minded Senior Business Analyst
 text_align_left: false
 title: Katherine Taylor
 type: home

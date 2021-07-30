@@ -6,8 +6,8 @@ date: "2021-05-06"
 date_end: "2021-05-09"
 draft: false
 event: Capital One Modelling and Analytics Conference
-event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on using analytics to determine a competitor set.
+event_url: 
+excerpt: In May 2021, I gave at talk on how clustering analysis can be used to study competitors.
 featured: true
 layout: single
 links:

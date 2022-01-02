@@ -25,7 +25,7 @@ enableEmoji = true
     ordered = false
   [markup.highlight]
     # one of: https://xyproto.github.io/splash/docs/ 
-    style = "monokailight"
+    style = "dracula"
     
 [params]
   orgName = "Katherine Taylor"
@@ -41,14 +41,14 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/sharing_photo.JPG"
+  sharing_image = "/img/intro_photo.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "data_katherine"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "violet"
+  theme = "peach"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/

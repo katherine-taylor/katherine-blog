@@ -5,7 +5,7 @@ action_type: text
 description: Hi! I specialize in using data to understand customer problems, and create educational resources. I love making beautiful charts and mentoring others.
 image_left: true
 images:
-- img/home_photo.png
+- img/IMG_7333.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Content Designer & Customer Researcher

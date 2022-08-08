@@ -1,0 +1,24 @@
+---
+title: "Quarto Blog test post"
+subtitle: "blechy blechy"
+excerpt: 
+format: hugo
+date: '2022-08-07'
+draft: false
+editor_options: 
+  markdown: 
+    wrap: 72
+
+---
+
+
+
+# Title
+
+Hello quarto post!
+
+``` r
+1 + 1
+```
+
+    [1] 2

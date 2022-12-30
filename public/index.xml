@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katherine Taylor</title>
-    <link>https://katherine-taylor.netlify.app/</link>
+    <link>https://katherinetaylor.me/</link>
     <description>Recent content on Katherine Taylor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://katherine-taylor.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://katherinetaylor.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
-      <link>https://katherine-taylor.netlify.app/collection/day02/01-netlify/</link>
+      <link>https://katherinetaylor.me/collection/day02/01-netlify/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/collection/day02/01-netlify/</guid>
+      <guid>https://katherinetaylor.me/collection/day02/01-netlify/</guid>
       <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
 Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
     </item>
     
     <item>
       <title>A GitHub profile</title>
-      <link>https://katherine-taylor.netlify.app/collection/day01/01-github/</link>
+      <link>https://katherinetaylor.me/collection/day01/01-github/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/collection/day01/01-github/</guid>
+      <guid>https://katherinetaylor.me/collection/day01/01-github/</guid>
       <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
 Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
 Profile README     This is new! Let&amp;rsquo;s do it:
@@ -31,20 +31,20 @@ https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/ma
     
     <item>
       <title>Prework</title>
-      <link>https://katherine-taylor.netlify.app/collection/prework/</link>
+      <link>https://katherinetaylor.me/collection/prework/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/collection/prework/</guid>
+      <guid>https://katherinetaylor.me/collection/prework/</guid>
       <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
 Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
     </item>
     
     <item>
       <title>A postcard</title>
-      <link>https://katherine-taylor.netlify.app/collection/day01/02-postcards/</link>
+      <link>https://katherinetaylor.me/collection/day01/02-postcards/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/collection/day01/02-postcards/</guid>
+      <guid>https://katherinetaylor.me/collection/day01/02-postcards/</guid>
       <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
 install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
  Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
@@ -52,10 +52,10 @@ install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you u
     
     <item>
       <title>Using blogdown</title>
-      <link>https://katherine-taylor.netlify.app/collection/day02/02-blogdown/</link>
+      <link>https://katherinetaylor.me/collection/day02/02-blogdown/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/collection/day02/02-blogdown/</guid>
+      <guid>https://katherinetaylor.me/collection/day02/02-blogdown/</guid>
       <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
 install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
  Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
@@ -63,10 +63,10 @@ install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you u
     
     <item>
       <title>A distill site</title>
-      <link>https://katherine-taylor.netlify.app/collection/day01/03-distill/</link>
+      <link>https://katherinetaylor.me/collection/day01/03-distill/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/collection/day01/03-distill/</guid>
+      <guid>https://katherinetaylor.me/collection/day01/03-distill/</guid>
       <description>Pre-requisites     First, make sure you have the latest version of the distill package installed from CRAN:
 install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
  Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’  Create GitHub repo     Online.</description>
@@ -74,49 +74,40 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
     
     <item>
       <title>Warm woolen mittens</title>
-      <link>https://katherine-taylor.netlify.app/collection/day02/03-blogdown/</link>
+      <link>https://katherinetaylor.me/collection/day02/03-blogdown/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/collection/day02/03-blogdown/</guid>
+      <guid>https://katherinetaylor.me/collection/day02/03-blogdown/</guid>
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
     </item>
     
     <item>
-      <title>Sample R markdown post</title>
-      <link>https://katherine-taylor.netlify.app/blog/2021-06-27-sample-r-markdown-post/</link>
-      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Quarto Blog test post</title>
+      <link>https://katherinetaylor.me/blog/2022-08-07-test-quarto-post/test_post/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/blog/2021-06-27-sample-r-markdown-post/</guid>
-      <description>Hello blog post!</description>
+      <guid>https://katherinetaylor.me/blog/2022-08-07-test-quarto-post/test_post/</guid>
+      <description> Title   Hello quarto post!
+1 + 1 [1] 2  </description>
     </item>
     
     <item>
       <title>MAC Conference Talk</title>
-      <link>https://katherine-taylor.netlify.app/talk/mac-conference-talk/</link>
+      <link>https://katherinetaylor.me/talk/mac-conference-talk/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/talk/mac-conference-talk/</guid>
+      <guid>https://katherinetaylor.me/talk/mac-conference-talk/</guid>
       <description>I gave this talk at Capital One&amp;rsquo;s modelling and analytics conference. It was my first conference talk, and I&amp;rsquo;m super proud of it!</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://katherine-taylor.netlify.app/contact/</link>
-      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
-      
-      <guid>https://katherine-taylor.netlify.app/contact/</guid>
-      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
-Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
-    </item>
-    
-    <item>
       <title>Typography Styles &amp; Element Examples</title>
-      <link>https://katherine-taylor.netlify.app/elements/</link>
+      <link>https://katherinetaylor.me/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/elements/</guid>
+      <guid>https://katherinetaylor.me/elements/</guid>
       <description>Font Sizes   A A A A A A A A   6rem
 (96px) 5rem
 (80px) 3rem
@@ -130,10 +121,10 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     
     <item>
       <title>Contributors</title>
-      <link>https://katherine-taylor.netlify.app/contributors/</link>
+      <link>https://katherinetaylor.me/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/contributors/</guid>
+      <guid>https://katherinetaylor.me/contributors/</guid>
       <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
    Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
    Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
@@ -142,10 +133,10 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     
     <item>
       <title>License</title>
-      <link>https://katherine-taylor.netlify.app/license/</link>
+      <link>https://katherinetaylor.me/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://katherine-taylor.netlify.app/license/</guid>
+      <guid>https://katherinetaylor.me/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
   </description>
     </item>

@@ -93,6 +93,10 @@ enableEmoji = true
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/katherine-taylor-858122149/"
+  [[params.social]]
+      icon      = "mastodon"
+      icon_pack = "fab"
+      url       = "https://mstdn.social/@katherinetaylor"
 
 [taxonomies]
   category = "categories"

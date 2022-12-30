@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Katherine Taylor</title>
-    <link>https://katherine-taylor.netlify.app/series/</link>
+    <link>https://katherinetaylor.me/series/</link>
     <description>Recent content in Series on Katherine Taylor</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://katherine-taylor.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://katherinetaylor.me/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

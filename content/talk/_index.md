@@ -9,7 +9,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent talks
-    text_link_url: /talk/
+    text_link_url: /talks/
 description: |
   Talks that I have given, internal and external. (No links for internal talks, sorry!)
 layout: list

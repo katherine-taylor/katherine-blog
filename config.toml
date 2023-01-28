@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Katherine Taylor's personal website"
   favicon = "/img/icon.png"
   logo = ""
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "project", "talks"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -70,7 +70,7 @@ enableEmoji = true
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
-    use_utterances = true
+    use_utterances = false
     repo_name = "katherine-taylor/katherine-blog"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
@@ -123,7 +123,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Talks"
     title = "Talks"
-    url = "/talk/"
+    url = "/talks/"
     weight = 4
     
   # Configure footer  

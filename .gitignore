@@ -1,9 +1,9 @@
 # ignore mac things
 .DS_Store
-
 # R project files - including .Rproj.user
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 /.quarto/
+public

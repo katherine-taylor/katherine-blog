@@ -12,10 +12,11 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # sidebar instructions
 sidebar: 
-  title: Current Interests
-  description: "As inspired by Jesse Mostipak, here's a list of what I'm reading, listening and watching lately. Emphasis on the listening lately. <br>   <br> 
-  <a href = \"https://wtf1.com/\"> WTF1 podcast <br>
-   <a href = \"https://www.agathachristie.com/stories/murder-on-the-orient-express\">  Murder on the Orient Express </a> <br> <a href = \"https://open.spotify.com/show/1q1ndRAQiY9CaVtNl2TkYy?si=TFHZVr8CSf6BD-XG3IYEug\"> The Newest Olympian  </a>"
+  title: "Current Interests"
+  description: "As inspired by Jesse Mostipak, here's a list of what I'm reading, listening       and watching lately. Emphasis on reading lately. <br>
+<a href =  \"https://www.amazon.com/Fat-Talk-Parenting-Diet-Culture-ebook/dp/B0B1Y5TKLP\"> Fat Talk </a> <br>
+<a href = \"https://annehelen.substack.com/\"> Culture Study </a> <br>
+<a href = \"https://www.kmandfriends.com/podcasts/backstage-banter\"> Backstage Banter </a>"
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
@@ -31,4 +32,3 @@ cascade:
     show_sidebar_adunit: false # show ad container
 ---
 
-\*\* No content below YAML for the blog \_index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside blog/. You may still override any of these by changing them in a page's front matter.\*\*

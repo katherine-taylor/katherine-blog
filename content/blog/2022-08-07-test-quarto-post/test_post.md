@@ -2,16 +2,16 @@
 title: "Quarto Blog test post"
 subtitle: "blechy blechy"
 excerpt: 
+author: "Katherine Taylor"
 format: hugo
 date: '2022-08-07'
-draft: false
+slug: menus-01
+draft: true
 editor_options: 
   markdown: 
     wrap: 72
 
 ---
-
-
 
 # Title
 

@@ -6,7 +6,7 @@ author: "Katherine Taylor"
 format: hugo
 date: '2022-08-07'
 slug: menus-01
-draft: false
+draft: true
 editor_options: 
   markdown: 
     wrap: 72

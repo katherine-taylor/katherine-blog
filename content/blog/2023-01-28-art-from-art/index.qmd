@@ -1,0 +1,62 @@
+---
+title: "Art from Art"
+author: "Katherine"
+date: '2023-01-28'
+draft: false
+slug: art-from-art
+categories: []
+tags: [art, tidytuesday]
+---
+
+I was really excited to see that the [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) for last week (1/17) was on Art! I haven't found a lot of great art data sets, and definitely not a lot with numerical data, so I was pretty interested in taking this data for a spin. The data is from the package [arthistory](https://saralemus7.github.io/arthistory/), and was originally collected as part of an undergraduate thesis on demographic representation in Art History textbooks. I decided that rather than analyzing the set of data, I was more interested in how the data could be used to produce generative art. With that goal in mind, I dug into exploring the data.
+
+## Libraries and all that jazz
+
+```{r}
+#| title: libraries
+#| output: false
+
+# install.packages("arthistory")
+library(arthistory)
+
+# install.packages("MetBrewer")
+
+# Art themed art must be art colored
+library(MetBrewer)
+
+# essentially my utilities 
+library(tidyverse)
+library(here)
+library(glue)
+```
+
+```{r}
+#| title: seed
+# setting the all important seed
+set.seed(9902)
+# from https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php
+# range 1 - 10,000
+```
+
+## Initial Exploration
+
+```{r}
+#| title: initials
+
+glimpse(worksjanson)
+
+```
+
+I was interested in using medium as the color for my art, however, it looks like there are a lot of different mediums listed, let's take a look at all of them:
+
+```{r}
+#| title: mediums
+worksjanson |> 
+  select(medium) |> 
+  group_by(medium) |> 
+  summarize(count = n()) |> 
+  arrange(-count)
+  
+```
+
+hi hi moo

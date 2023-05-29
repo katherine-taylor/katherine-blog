@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  Talks that I have given, internal and external. (No links for internal talks, sorry!)
+  Talks that I have given!
 layout: list
 show_author_byline: true
 show_post_date: true
@@ -19,7 +19,7 @@ show_post_thumbnail: true
 show_post_time: true
 sidebar:
   author: Katherine Taylor
-  description: "Talks that I have given, internal and external. (No links for internal talks, sorry!)"
+  description: "Talks that I have given!"
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml

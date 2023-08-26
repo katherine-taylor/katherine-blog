@@ -2,7 +2,7 @@ baseURL = "https://katherinetaylor.me"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Katherine Taylor"
-author = "Katherine Taylor"
+author = "Katherine"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/intro_photo.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "data_katherine"
+  twitter = "kathernetaylor"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -88,7 +88,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/data_katherine"
+      url       = "https://twitter.com/hashtag/kathernetaylor"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"

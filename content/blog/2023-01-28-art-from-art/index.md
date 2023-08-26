@@ -8,17 +8,7 @@ categories: []
 tags: [art, tidytuesday]
 ---
 
-I was really excited to see that the [Tidy
-Tuesday](https://github.com/rfordatascience/tidytuesday) for last week
-(1/17) was on Art! I haven't found a lot of great art data sets, and
-definitely not a lot with numerical data, so I was pretty interested in
-taking this data for a spin. The data is from the package
-[arthistory](https://saralemus7.github.io/arthistory/), and was
-originally collected as part of an undergraduate thesis on demographic
-representation in Art History textbooks. I decided that rather than
-analyzing the set of data, I was more interested in how the data could
-be used to produce generative art. With that goal in mind, I dug into
-exploring the data.
+I was really excited to see that the [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) for last week (1/17) was on Art! I haven't found a lot of great art data sets, and definitely not a lot with numerical data, so I was pretty interested in taking this data for a spin. The data is from the package [arthistory](https://saralemus7.github.io/arthistory/), and was originally collected as part of an undergraduate thesis on demographic representation in Art History textbooks. I decided that rather than analyzing the set of data, I was more interested in how the data could be used to produce generative art. With that goal in mind, I dug into exploring the data.
 
 ## Libraries and all that jazz
 
@@ -78,9 +68,7 @@ glimpse(worksjanson)
     $ work_in_text_in_color            <dbl> 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1…
     $ location_as_catalogued_in_janson <chr> "Riverdell Collection, New York. Cour…
 
-I was interested in using medium as the color for my art, however, it
-looks like there are a lot of different mediums listed, let's take a
-look at all of them:
+I was interested in using medium as the color for my art, however, it looks like there are a lot of different mediums listed, let's take a look at all of them:
 
 ``` r
 worksjanson |> 
@@ -103,6 +91,6 @@ worksjanson |>
      8 Albumen print           12
      9 Platinum print          11
     10 Woodcut                 11
-    # … with 158 more rows
+    # ℹ 158 more rows
 
 hi hi moo

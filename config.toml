@@ -70,9 +70,9 @@ enableEmoji = true
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
-    use_utterances = false
+    use_utterances = true
     repo_name = "katherine-taylor/katherine-blog"
-    issue_term = "pathname" # url, pathname, or title
+    issue_term = "title" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
 
@@ -127,6 +127,16 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
+  [[menu.footer]]
+    name = "Contact"
+    title = "Contact form"
+    url = "/contact/"
+    weight = 2
+  [[menu.footer]]
+    name = "RSS"
+    title = "RSS"
+    url = "/blog/index.xml"
+    weight = 3
 
 
 # see https://gohugo.io/about/hugo-and-gdpr/    

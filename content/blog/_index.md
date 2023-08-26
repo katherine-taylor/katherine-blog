@@ -16,8 +16,10 @@ sidebar:
   description: "As inspired by Jesse Mostipak, here's a list of what I'm reading, listening       and watching lately. Emphasis on reading lately. <br>
 <a href =  \"https://www.amazon.com/Math-Girls-4-Randomized-Algorithms/dp/1939326435\"> Math Girls 4: Randomized Algorithms </a> <br>
 <a href = \"https://annehelen.substack.com/\"> Culture Study </a> <br>
-<a href = \"https://www.cultofpedagogy.com/\"> Cult of Pedagogy </a>"
+<a href = \"https://www.cultofpedagogy.com/\"> Cult of Pedagogy </a> "
   show_sidebar_adunit: false # show ad container
+  text_link_label: Subscribe via RSS
+  text_link_url: /index.xml
 
 # set up common front matter for all pages inside blog/
 cascade:

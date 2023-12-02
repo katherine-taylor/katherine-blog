@@ -1,7 +1,7 @@
 ---
 title: "Virtual Field Trips"
 subtitle: "Tech Proficiency 4"
-excerpt: 
+excerpt: "This week we learned about virtual field trips, and VR technology. I really wanted to find a virtual field trip of the Smithsonian Sculpture Garden, but there wasn't one available. I settled on the Census Bureau, which turned out to be pretty cool!"
 author: "Katherine"
 format: hugo
 date: '2023-12-02'
@@ -11,6 +11,11 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+
+This week we learned about virtual field trips, and VR technology. I
+really wanted to find a virtual field trip of the Smithsonian Sculpture
+Garden, but there wasn't one available. I settled on the Census Bureau,
+which turned out to be pretty cool!
 
 **Technology:** Virtual field trip 
 

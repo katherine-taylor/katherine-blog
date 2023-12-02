@@ -1,7 +1,7 @@
 ---
 title: "GIS"
 subtitle: "Tech Proficiency 7"
-excerpt: 
+excerpt: "This week was on GIS/mapping technologies. I had been interested in experimenting with GIS in R, so I took my chance and created a lesson using r5r. While this took a lot longer than expected, I'm pretty happy with the outcome. "
 author: "Katherine"
 format: hugo
 date: '2023-12-02'
@@ -11,6 +11,11 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+
+This week was on GIS/mapping technologies. I had been interested in
+experimenting with GIS in R, so I took my chance and created a lesson
+using r5r. While this took a lot longer than expected, I'm pretty happy
+with the outcome.
 
 **Technology:** GIS - r5r package in R, Github, R language, quarto
 notebooks 

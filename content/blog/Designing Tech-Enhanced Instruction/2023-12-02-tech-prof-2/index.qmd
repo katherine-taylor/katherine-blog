@@ -1,7 +1,7 @@
 ---
 title: "Websites"
 subtitle: "Tech Proficiency 2"
-excerpt: 
+excerpt: "The second week of EDIS 5070, we had to create our own website. Since I already had this site, I set up a section for my tech proficiencies, and drafted a teaching philosophy. "
 author: "Katherine"
 format: hugo
 date: '2023-12-02'
@@ -11,6 +11,10 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+
+The second week of EDIS 5070, we had to create our own website. Since I
+already had this site, I set up a section for my tech proficiencies, and
+drafted a teaching philosophy.
 
 **Technology:** Hugo/Github/Netlify
 

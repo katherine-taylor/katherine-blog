@@ -1,7 +1,7 @@
 ---
 title: "OBS: Open Broadcaster Software"
 subtitle: "Tech Proficiency 1"
-excerpt: 
+excerpt: "The first week of EDIS 5070, we were tasked with creating a introductory video targeted at our future classroom. I created mine using OBS, which is an open source video software used by many video creators, and twitch streamers."
 author: "Katherine"
 format: hugo
 date: '2023-12-02'
@@ -11,6 +11,11 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+
+The first week of EDIS 5070, we were tasked with creating a introductory
+video targeted at our future classroom. I created mine using OBS, which
+is an open source video software used by many video creators, and twitch
+streamers.
 
 **Technology:** OBS
 

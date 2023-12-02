@@ -1,7 +1,7 @@
 ---
 title: "Microbit"
 subtitle: "Tech Proficiency 8"
-excerpt: 
+excerpt: "This week we talked about unplugged CS activities and microbits. I loved working with the microbits (once I got them working with my computer), and designed a lesson and tutorial for a sample survey project. I look forward to creating more projects using the microbit in the future!"
 author: "Katherine"
 format: hugo
 date: '2023-12-02'
@@ -11,6 +11,11 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+
+This week we talked about unplugged CS activities and microbits. I loved
+working with the microbits (once I got them working with my computer),
+and designed a lesson and tutorial for a sample survey project. I look
+forward to creating more projects using the microbit in the future!
 
 **Technology:** Microbits
 

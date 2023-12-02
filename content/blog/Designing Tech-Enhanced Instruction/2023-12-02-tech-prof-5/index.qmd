@@ -1,7 +1,7 @@
 ---
 title: "Differentiation/UDL"
 subtitle: "Tech Proficiency 5"
-excerpt: 
+excerpt: "This week, the focus of EDIS 5070 was on differentiation/UDL. I decided to learn about mastery grids on my own, which are a type of differentiation."
 author: "Katherine"
 format: hugo
 date: '2023-12-02'
@@ -11,6 +11,10 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+
+This week, the focus of EDIS 5070 was on differentiation/UDL. I decided
+to learn about mastery grids on my own, which are a type of
+differentiation.
 
 **Technology:** Mastery grid (for differentiation)
 

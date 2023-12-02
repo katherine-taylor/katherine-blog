@@ -1,7 +1,7 @@
 ---
 title: "Robots"
 subtitle: "Tech Proficiency 9"
-excerpt: 
+excerpt: "For our final tech proficiency, we got to mess with robots. I had a lot of fun playing with the beebots and the ozobots. I chose to focus my tech proficiency around the beebots, and my tech enhanced lesson plan on the ozobots. "
 author: "Katherine"
 format: hugo
 date: '2023-12-02'
@@ -11,6 +11,8 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+
+For our final tech proficiency, we got to mess with robots. I had a lot of fun playing with the beebots and the ozobots. I chose to focus my tech proficiency around the beebots, and my tech enhanced lesson plan on the ozobots.
 
 **Technology:** Beebots
 

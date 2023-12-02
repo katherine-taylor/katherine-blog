@@ -1,7 +1,7 @@
 ---
 title: "Formative Assessment"
 subtitle: "Tech Proficiency 3"
-excerpt: 
+excerpt: "This week in EDIS 5070, we learned about different technology alternatives for formative assessment. I was originally overwhelmed by nearpod, but I got the hang of it, and incorporated it into one of the lessons I taught!"
 author: "Katherine"
 format: hugo
 date: '2023-12-02'
@@ -11,6 +11,11 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+
+This week in EDIS 5070, we learned about different technology
+alternatives for formative assessment. I was originally overwhelmed by
+nearpod, but I got the hang of it, and incorporated it into one of the
+lessons I taught!
 
 **Technology:** Nearpod (used to make the quiz), R/RStudio, ggplot2
 (used to make the figures for the quiz)

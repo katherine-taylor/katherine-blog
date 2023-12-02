@@ -1,7 +1,7 @@
 ---
 title: "Badges"
 subtitle: "Tech Proficiency 6"
-excerpt: 
+excerpt: "This week we learned about digital citizenry/badges. I created a set of badges students could earn during a transformations unit."
 author: "Katherine"
 format: hugo
 date: '2023-12-02'
@@ -11,6 +11,9 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+
+This week we learned about digital citizenry/badges. I created a set of
+badges students could earn during a transformations unit.
 
 **Technology:** Badges 
 

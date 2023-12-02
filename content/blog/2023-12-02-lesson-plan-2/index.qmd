@@ -1,0 +1,17 @@
+---
+title: "Quadrilaterals with Robots"
+subtitle: "Tech Enhanced Lesson Plan 2"
+excerpt: "I originally created this lesson plan on quadrilaterals for my math teaching methods class, EDIS 5450. To tech enhance this lesson, I added an optional component using ozobots."
+author: "Katherine"
+format: hugo
+date: '2023-12-02'
+slug: lesson-plan-1
+draft: false
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+I originally created this lesson plan on quadrilaterals for my math teaching methods class, EDIS 5450. To tech enhance this lesson, I added an optional component using ozobots. 
+
+<iframe width = "800" height = "1000" src="https://docs.google.com/document/d/e/2PACX-1vTxejIZSxqDKEbJkIp_wsTWICuTmOWPmZH-z6Jh_UHyakb-FiWWhTvwasoGfiXsJa6n0WZ54bRK5sp4/pub?embedded=true"></iframe>

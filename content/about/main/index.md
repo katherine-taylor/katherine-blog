@@ -5,10 +5,13 @@ number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
-intro: "I'm currently getting my master's degree in mathematics education, with the goal of teaching in a secondary school following graduation. I got my undergraduate degree from the University of Virginia in 2020 in Systems Engineering and Statistics, where I also served as drum major of the marching band for two years. In my spare time, I love to play bassoon, read, and watch Formula One.
-\n
-\n
-Teaching Philosophy"
+intro: |
+  I'm currently getting my master's degree in mathematics education at the University of    Virginia (UVA), and I'd love to teach at a middle school in a diverse community following
+  graduation. I also got my undergraduate degree from UVA in 2020 in Systems Engineering     and Statistics, where I also served as drum major of the marching band for two years. In   my spare time, I love to play bassoon, read, watch Formula One, and cheer on the Hoos.
+  
+  Teaching Philosophy:
+  
+  
 outro: |
 ---
 

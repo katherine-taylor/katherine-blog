@@ -1,6 +1,6 @@
 ---
-title: "Tech Proficiency 1"
-subtitle: "OBS: Open Broadcaster Software"
+title: "OBS: Open Broadcaster Software"
+subtitle: "Tech Proficiency 1"
 excerpt: 
 author: "Katherine"
 format: hugo

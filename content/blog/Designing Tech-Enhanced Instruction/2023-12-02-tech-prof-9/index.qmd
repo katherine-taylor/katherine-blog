@@ -1,6 +1,6 @@
 ---
-title: "Tech Proficiency 9"
-subtitle: "Robots"
+title: "Robots"
+subtitle: "Tech Proficiency 9"
 excerpt: 
 author: "Katherine"
 format: hugo
@@ -12,7 +12,7 @@ editor_options:
     wrap: 72
 ---
 
-**Technology:** Beebots 
+**Technology:** Beebots
 
 **Link to Proficiency:** <https://www.terrapinlogo.com/beebot-ss.html>
 
@@ -24,7 +24,7 @@ Theorem; and b) apply the Pythagorean Theorem
 **Lesson context:** This lesson would serve as an introduction to the
 Pythagorean theorem, and the distance formula. Students would program
 beebots to outline two sides of a triangle, and then calculate how far
-the bee bot traveled as the crow flies. 
+the bee bot traveled as the crow flies.
 
 **Goal of technology use:** The goal of the technology use is to make
 the lesson more interactive for students, and help them gain spatial
@@ -38,4 +38,4 @@ right, and then up or down. From there, they will measure the distance
 the blue bot traveled on the diagonal, and come it to the
 horizontal/vertical distances, and squared distances. Eventually, the
 students will be led to understand the pythagorean theorem and how it
-applies to distances. 
+applies to distances.

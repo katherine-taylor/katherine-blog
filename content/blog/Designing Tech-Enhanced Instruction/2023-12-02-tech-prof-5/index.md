@@ -1,6 +1,6 @@
 ---
-title: "Tech Proficiency 5"
-subtitle: "Differentiation/UDL"
+title: "Differentiation/UDL"
+subtitle: "Tech Proficiency 5"
 excerpt: 
 author: "Katherine"
 format: hugo

@@ -1,6 +1,6 @@
 ---
-title: "Tech Proficiency 5"
-subtitle: "Differentiation/UDL"
+title: "Differentiation/UDL"
+subtitle: "Tech Proficiency 5"
 excerpt: 
 author: "Katherine"
 format: hugo
@@ -48,6 +48,3 @@ Students would be expected to work independently, and flag me down if
 they have any questions. Students would also fill out an accountability
 form, where they would make daily and weekly goals for how much of the
 mastery grid they are aiming to complete. 
-
-  
-  

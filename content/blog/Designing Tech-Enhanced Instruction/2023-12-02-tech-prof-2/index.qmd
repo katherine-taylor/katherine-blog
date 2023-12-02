@@ -1,6 +1,6 @@
 ---
-title: "Tech Proficiency 2"
-subtitle: "Websites"
+title: "Websites"
+subtitle: "Tech Proficiency 2"
 excerpt: 
 author: "Katherine"
 format: hugo

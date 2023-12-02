@@ -1,6 +1,6 @@
 ---
-title: "Tech Proficiency 7"
-subtitle: "GIS"
+title: "GIS"
+subtitle: "Tech Proficiency 7"
 excerpt: 
 author: "Katherine"
 format: hugo
@@ -41,13 +41,13 @@ would be challenging for them to complete by hand, and require computers
 to make them easier. 
 
 **Brief description of how technology will be used with students:**
-Students would access the quarto notebook on RStudio cloud (I didn\'t
-set that up for this tech proficiency since it would likely cost money),
-and work through the code alongside a worksheet. I created custom
-functions to abstract out some of the more complicated code, and give
-custom error messages that let students know when they should get help
-from me. Students would be able to work at their own pace, and play with
-the code to produce different isochrone maps. If students wanted to get
-deeper into the code, I included some sample analysis in R. I would
-assume for this assignment that students would be introduced to RStudio
-Cloud and coding in R in previous lessons. 
+Students would access the quarto notebook on RStudio cloud (I didn't set
+that up for this tech proficiency since it would likely cost money), and
+work through the code alongside a worksheet. I created custom functions
+to abstract out some of the more complicated code, and give custom error
+messages that let students know when they should get help from me.
+Students would be able to work at their own pace, and play with the code
+to produce different isochrone maps. If students wanted to get deeper
+into the code, I included some sample analysis in R. I would assume for
+this assignment that students would be introduced to RStudio Cloud and
+coding in R in previous lessons. 

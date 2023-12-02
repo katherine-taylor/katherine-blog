@@ -1,6 +1,6 @@
 ---
-title: "Tech Proficiency 3"
-subtitle: "Formative Assessment"
+title: "Formative Assessment"
+subtitle: "Tech Proficiency 3"
 excerpt: 
 author: "Katherine"
 format: hugo

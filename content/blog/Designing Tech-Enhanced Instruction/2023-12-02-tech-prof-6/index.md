@@ -1,6 +1,6 @@
 ---
-title: "Tech Proficiency 6"
-subtitle: "Badges"
+title: "Badges"
+subtitle: "Tech Proficiency 6"
 excerpt: 
 author: "Katherine"
 format: hugo

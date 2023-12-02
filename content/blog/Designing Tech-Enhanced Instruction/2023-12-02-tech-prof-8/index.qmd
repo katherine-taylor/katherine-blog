@@ -1,6 +1,6 @@
 ---
-title: "Tech Proficiency 8"
-subtitle: "Microbit"
+title: "Microbit"
+subtitle: "Tech Proficiency 8"
 excerpt: 
 author: "Katherine"
 format: hugo

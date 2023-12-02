@@ -1,6 +1,6 @@
 ---
-title: "Tech Proficiency 6"
-subtitle: "Badges"
+title: "Badges"
+subtitle: "Tech Proficiency 6"
 excerpt: 
 author: "Katherine"
 format: hugo
@@ -39,5 +39,3 @@ would be expected to work independently, and flag me down if they have
 any questions. When students complete a category, they would receive a
 sticker from me that they could place on their laptop, or other surface
 of their choosing. 
-
-  

@@ -1,6 +1,6 @@
 ---
-title: "Tech Proficiency 4"
-subtitle: "Virtual Field Trips"
+title: "Virtual Field Trips"
+subtitle: "Tech Proficiency 4"
 excerpt: 
 author: "Katherine"
 format: hugo

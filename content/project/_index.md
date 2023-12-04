@@ -8,14 +8,14 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: My data science projects.
+description: My teaching projects.
 layout: list-grid
 show_author_byline: true
 show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: Katherine Taylor
-  description: "My data science projects."
+  description: "My teaching projects."
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""

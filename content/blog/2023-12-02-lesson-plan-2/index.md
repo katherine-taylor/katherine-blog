@@ -4,7 +4,7 @@ subtitle: "Tech Enhanced Lesson Plan 2"
 excerpt: "I originally created this lesson plan on quadrilaterals for my math teaching methods class, EDIS 5450. To tech enhance this lesson, I added an optional component using ozobots."
 author: "Katherine"
 format: hugo
-date: '2023-12-02'
+date: '2023-12-03'
 slug: lesson-plan-1
 draft: false
 editor_options: 

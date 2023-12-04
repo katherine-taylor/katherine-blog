@@ -4,7 +4,7 @@ subtitle: "Tech Enhanced Lesson Plan 1"
 excerpt: "I originally created this lesson in conjunction with my mentor teacher to teach students about symmetry, reflections, and translations. I modified it to include a origami activity that utilized nearpod, and videos I created."
 author: "Katherine"
 format: hugo
-date: '2023-12-02'
+date: '2023-12-03'
 slug: lesson-plan-1
 draft: false
 editor_options: 
